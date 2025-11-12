@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=700&multiline=true&width=750&height=90&lines=Building+Intelligent+Systems+with+Data+%26+Code+🤖;Machine+Learning+%7C+Deep+Learning+%7C+VR+%7C+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=2500&pause=700&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Building+Intelligent+Systems+with+Data+%26+Code+🤖;Machine+Learning+%7C+Deep+Learning+%7C+VR+%7C+Analytics" alt="Typing SVG" />
 </p>
 
 <p align="center">
