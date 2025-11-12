@@ -1,7 +1,7 @@
 <!-- PROFILE HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=700&multiline=true&width=750&height=90&lines=Hi+there%2C+welcome+to+my+GitHub!+%F0%9F%91%8B;Data+Science+%7C+ML+%7C+Deep+Learning+%7C+VR+%7C+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=700&multiline=true&width=750&height=90&lines=Building+Intelligent+Systems+with+Data+%26+Code+🤖;Machine+Learning+%7C+Deep+Learning+%7C+VR+%7C+Analytics" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,15 +17,21 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p>
-I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passionate about creating reproducible machine learning systems. My flagship project applies <b>Speech Emotion Recognition (SER)</b> to <b>Virtual Reality Exposure Therapy (VRET)</b> for public speaking anxiety. Alongside, I develop <b>finance analytics dashboards</b>, <b>big-data music systems (RaagaFlow)</b>, and practical data science workflows.
+I’m a <b>Data Scientist</b> with a Master’s in <b>Data Science</b> from <b>Nottingham Trent University, UK</b>, passionate about transforming complex data into intelligent, actionable systems.  
+</p>
+
+<p>
+My academic and project work bridges <b>machine learning</b>, <b>deep learning</b>, and <b>data-driven design</b> — from developing <b>Speech Emotion Recognition (SER)</b> models for <b>Virtual Reality Exposure Therapy (VRET)</b> to creating analytics dashboards and big-data music intelligence pipelines like <b>RaagaFlow</b>.  
 </p>
 
 <ul>
-  <li>🔭 <b>Current focus:</b> Wav2Vec2-based SER (TESS, RAVDESS, CREMA-D, NOR) with real-time VR integration, augmentation, and evaluation.</li>
-  <li>🧠 <b>Also into:</b> RaagaFlow (Indian Raga × Western Scale classification), stock-market analytics (yfinance, backtesting), and data visualization.</li>
-  <li>🧰 <b>Workflow:</b> PyTorch • HuggingFace • scikit-learn • Kaggle • Conda • Git • Docker • MLOps best practices.</li>
-  <li>💬 <b>Ask me about:</b> SER pipelines, audio feature extraction, dataset design, and interactive dashboards.</li>
+  <li>🎓 <b>Background:</b> MSc in Data Science, Nottingham Trent University</li>
+  <li>🔬 <b>Focus Areas:</b> Speech Emotion Recognition, Machine Learning, Deep Learning, Data Analytics, Big Data Systems</li>
+  <li>🧰 <b>Tech Stack:</b> PyTorch • HuggingFace • scikit-learn • Pandas • Power BI • Tableau • Docker • Git • Linux</li>
+  <li>💡 <b>Interests:</b> AI in Healthcare • Applied Analytics • Data Storytelling • Intelligent Automation</li>
+  <li>💬 <b>Ask me about:</b> SER pipelines, model optimization, real-time analytics, and dashboard visualization</li>
 </ul>
+
 
 ---
 
@@ -86,12 +92,13 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
         <a href="https://github.com/kochharp/Deriving_Values"><img alt="repo" src="https://img.shields.io/badge/Repo-Deriving_Values-24292E?logo=github&logoColor=white"/></a>
         <a href="https://github.com/kochharp/Deriving_Values/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/kochharp/Deriving_Values?style=social"/></a>
       </p>
-      <li>Pipeline diagram & UX mockups</li>
-      <li>Raga × Scale classification with ML</li>
-      <li>Branded visuals and dashboards</li>
-    </ul>
-  </td>
-</tr>
+      <ul>
+        <li>Pipeline diagram & UX mockups</li>
+        <li>Raga × Scale classification with ML</li>
+        <li>Branded visuals and dashboards</li>
+      </ul>
+    </td>
+  </tr>
   <tr>
     <td>
       <h3>📈 NIFTY50 Stock Analysis / Explorer</h3>
