@@ -41,13 +41,14 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda"/>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter"/>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas"/>
+  <!-- Reliable badges for BI tools -->
+  <img height="28" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"/>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn"/>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
   <!-- Reliable badges for BI tools -->
-  <img height="28" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img height="28" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
@@ -82,8 +83,8 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
         End-to-end concept for raga & scale classification; big-data architecture for streaming music analytics; includes design assets and visual pipeline.
       </p>
       <p>
-        <a href="https://github.com/kochharp/RaagaFlow"><img alt="repo" src="https://img.shields.io/badge/Repo-RaagaFlow-24292E?logo=github&logoColor=white"/></a>
-        <a href="https://github.com/kochharp/RaagaFlow/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/kochharp/RaagaFlow?style=social"/></a>
+        <a href="https://github.com/kochharp/Deriving_Values"><img alt="repo" src="https://img.shields.io/badge/Repo-Deriving_Values-24292E?logo=github&logoColor=white"/></a>
+        <a href="https://github.com/kochharp/Deriving_Values/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/kochharp/Deriving_Values?style=social"/></a>
       </p>
       <ul>
         <li>Pipeline diagram & UX mockups</li>
@@ -158,6 +159,17 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochharp&layout=compact" alt="Top Languages"/>
   <img height="165" src="https://github-profile-trophy.vercel.app/?username=kochharp&margin-w=10&margin-h=10" alt="Profile Trophies"/>
 </p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kochharp/kochharp/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kochharp/kochharp/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kochharp/kochharp/output/github-snake.svg" />
+  </picture>
+</p>
+
 
 ---
 
