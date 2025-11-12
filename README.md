@@ -83,7 +83,7 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
       End-to-end concept for raga & scale classification; big-data architecture for streaming music analytics; includes design assets and visual pipeline.
     </p>
     <p>
-      <!-- Displays clean RaagaFlow label and reliable star count -->
+      <!-- Shows clean RaagaFlow label and reliable star count -->
       <a href="https://github.com/kochharp/Deriving_Values">
         <img alt="repo" src="https://img.shields.io/badge/Repo-RaagaFlow-24292E?logo=github&logoColor=white"/>
       </a>
@@ -151,18 +151,39 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
 
 ---
 
-<!-- GITHUB STATS -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
+<!-- GITHUB STATS (Minimal & Relevant) -->
+<h2 align="center">📊 GitHub Highlights</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kochharp&show_icons=true&hide_title=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=kochharp&theme=default" alt="GitHub Streak"/>
+  <!-- Top languages (compact) -->
+  <img height="165" alt="Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochharp&layout=compact&langs_count=8&exclude_repo=kochharp.github.io"/>
+  <!-- Streak (consistency, not vanity totals) -->
+  <img height="165" alt="Streak"
+       src="https://github-readme-streak-stats.herokuapp.com?user=kochharp&theme=default"/>
+</p>
+
+<!-- Pin key repos for quick context (no ‘points’ badges) -->
+<p align="center">
+  <a href="https://github.com/kochharp/SER_VRET">
+    <img width="45%" alt="SER_VRET"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=SER_VRET&show_owner=false"/>
+  </a>
+  <a href="https://github.com/kochharp/Deriving_Values">
+    <img width="45%" alt="RaagaFlow (Deriving_Values)"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=Deriving_Values&show_owner=false"/>
+  </a>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochharp&layout=compact" alt="Top Languages"/>
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=kochharp&margin-w=10&margin-h=10" alt="Profile Trophies"/>
+  <a href="https://github.com/kochharp/NIFTY50_StockAnalysis">
+    <img width="45%" alt="NIFTY50_StockAnalysis"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=NIFTY50_StockAnalysis&show_owner=false"/>
+  </a>
+  <a href="https://github.com/kochharp/StatisticalAnalysis_R">
+    <img width="45%" alt="StatisticalAnalysis_R"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=StatisticalAnalysis_R&show_owner=false"/>
+  </a>
 </p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
@@ -173,7 +194,7 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kochharp/kochharp/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
+[![Generate Contribution Snake](https://github.com/kochharp/kochharp/actions/workflows/snake.yml/badge.svg)](https://github.com/kochharp/kochharp/actions/workflows/snake.yml)
 
 
 ---
