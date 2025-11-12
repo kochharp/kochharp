@@ -72,8 +72,14 @@ My academic and project work bridges <b>machine learning</b>, <b>deep learning</
         Wav2Vec2-based SER for adaptive VR therapy. Trained on multi-dataset pipeline (TESS, RAVDESS, CREMA-D, NOR), featuring augmentation, class-balancing, and real-time emotion tracking.
       </p>
       <p>
-        <a href="https://github.com/kochharp/SER_VRET"><img alt="repo" src="https://img.shields.io/badge/Repo-SER_VRET-24292E?logo=github&logoColor=white"/></a>
-        <a href="https://github.com/kochharp/SER_VRET/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/kochharp/SER_VRET?style=social"/></a>
+        <a href="https://github.com/kochharp/SER_VRET">
+          <img alt="repo"
+              src="https://custom-icon-badges.demolab.com/badge/Repo-SER%20VRET-24292E?logo=github&logoColor=white&style=flat"/>
+        </a>
+        <a href="https://github.com/kochharp/SER_VRET/stargazers">
+          <img alt="stars"
+              src="https://custom-icon-badges.demolab.com/github/stars/kochharp/SER_VRET?style=social&label=Stars&logo=github&logoColor=white&cache=3600&t=1"/>
+        </a>
       </p>
       <ul>
         <li>HuggingFace • PyTorch • Wav2Vec2-Large</li>
