@@ -7,8 +7,7 @@
 <p align="center">
   <a href="https://github.com/kochharp"><img src="https://komarev.com/ghpvc/?username=kochharp&style=for-the-badge" alt="Profile views"/></a>
   <a href="https://www.linkedin.com/in/prakharkochhar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:prakharkochharknp@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Resume-CV-6C63FF?style=for-the-badge"/></a>
+  <a href="mailto:prakharkochharknp@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -35,20 +34,21 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
+  <!-- Reliable badges for BI tools -->
+  <img height="28" alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img height="28" alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
@@ -65,7 +65,7 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
         Wav2Vec2-based SER for adaptive VR therapy. Trained on multi-dataset pipeline (TESS, RAVDESS, CREMA-D, NOR), featuring augmentation, class-balancing, and real-time emotion tracking.
       </p>
       <p>
-        <a href="https://github.com/kochharp/SER_VRET"><img alt="repo" src="https://img.shields.io/badge/Repo-SER_VRET-24292E?logo=github"/></a>
+        <a href="https://github.com/kochharp/SER_VRET"><img alt="repo" src="https://img.shields.io/badge/Repo-SER_VRET-24292E?logo=github&logoColor=white"/></a>
         <a href="https://github.com/kochharp/SER_VRET/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/kochharp/SER_VRET?style=social"/></a>
       </p>
       <ul>
@@ -82,8 +82,8 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
         End-to-end concept for raga & scale classification; big-data architecture for streaming music analytics; includes design assets and visual pipeline.
       </p>
       <p>
-        <a href="https://github.com/kochharp/Big-Data"><img alt="repo" src="https://img.shields.io/badge/Repo-Big-Data-24292E?logo=github"/></a>
-        <a href="https://github.com/kochharp/Big-Data/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/kochharp/Big-Data?style=social"/></a>
+        <a href="https://github.com/kochharp/RaagaFlow"><img alt="repo" src="https://img.shields.io/badge/Repo-RaagaFlow-24292E?logo=github&logoColor=white"/></a>
+        <a href="https://github.com/kochharp/RaagaFlow/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/kochharp/RaagaFlow?style=social"/></a>
       </p>
       <ul>
         <li>Pipeline diagram & UX mockups</li>
@@ -94,12 +94,12 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
   </tr>
   <tr>
     <td>
-      <h3>📈 NSE Top-20 Stock Explorer</h3>
+      <h3>📈 NIFTY50 Stock Analysis / Explorer</h3>
       <p>
         Python GUI app for stock analytics using yfinance, featuring interactive candlesticks, SMA/EMA overlays, and moving-average crossover backtesting.
       </p>
       <p>
-        <a href="https://github.com/kochharp/NIFTY50_StockAnalysis"><img alt="repo" src="https://img.shields.io/badge/Repo-NSE_Stock_Explorer-24292E?logo=github"/></a>
+        <a href="https://github.com/kochharp/NIFTY50_StockAnalysis"><img alt="repo" src="https://img.shields.io/badge/Repo-NIFTY50_StockAnalysis-24292E?logo=github&logoColor=white"/></a>
         <a href="https://github.com/kochharp/NIFTY50_StockAnalysis/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/kochharp/NIFTY50_StockAnalysis?style=social"/></a>
       </p>
       <ul>
@@ -116,7 +116,7 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
         Data-driven insights for a conceptual healthy-meal startup. Includes survey analysis, KPI dashboards, and demographic targeting to optimize marketing strategy.
       </p>
       <p>
-        <a href="https://github.com/kochharp/Deriving_Values"><img alt="repo" src="https://img.shields.io/badge/Repo-Deriving_Values-24292E?logo=github"/></a>
+        <a href="https://github.com/kochharp/Deriving_Values"><img alt="repo" src="https://img.shields.io/badge/Repo-Deriving_Values-24292E?logo=github&logoColor=white"/></a>
       </p>
       <ul>
         <li>Python • Power BI • Pandas</li>
@@ -132,7 +132,7 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
         Statistical analysis using ANOVA, PCA, and hierarchical modeling to explore predictors of body fat percentage and build predictive models.
       </p>
       <p>
-        <a href="https://github.com/kochharp/StatisticalAnalysis_R"><img alt="repo" src="https://img.shields.io/badge/Repo-StatisticalAnalysis_R-24292E?logo=github"/></a>
+        <a href="https://github.com/kochharp/StatisticalAnalysis_R"><img alt="repo" src="https://img.shields.io/badge/Repo-StatisticalAnalysis_R-24292E?logo=github&logoColor=white"/></a>
       </p>
       <ul>
         <li>R • Python • ggplot2 • sklearn</li>
@@ -150,21 +150,13 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kochharp&show_icons=true&theme=default&hide_title=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=kochharp&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kochharp&show_icons=true&hide_title=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=kochharp&theme=default" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochharp&layout=compact" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=kochharp&margin-w=10&margin-h=10" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kochharp/kochharp/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kochharp/kochharp/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/kochharp/kochharp/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochharp&layout=compact" alt="Top Languages"/>
+  <img height="165" src="https://github-profile-trophy.vercel.app/?username=kochharp&margin-w=10&margin-h=10" alt="Profile Trophies"/>
 </p>
 
 ---
@@ -186,9 +178,9 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
 <h2 align="center">🤝 Let’s Connect</h2>
 
 <p align="center">
-  <a href="mailto:prakharkochharknp@gmail.com"><img src="https://img.shields.io/badge/Email-Me-181717?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/prakharkochhar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/kochharp"><img src="https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:prakharkochharknp@gmail.com"><img src="https://img.shields.io/badge/Email-Me-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/prakharkochhar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/kochharp"><img src="https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
