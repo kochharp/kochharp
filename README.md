@@ -189,6 +189,7 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kochharp/kochharp/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
 [![Generate Contribution Snake](https://github.com/kochharp/kochharp/actions/workflows/snake.yml/badge.svg)](https://github.com/kochharp/kochharp/actions/workflows/snake.yml)
 
 
