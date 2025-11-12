@@ -96,13 +96,13 @@ My academic and project work bridges <b>machine learning</b>, <b>deep learning</
         End-to-end concept for raga & scale classification; big-data architecture for streaming music analytics; includes design assets and visual pipeline.
       </p>
       <p>
-        <a href="https://github.com/kochharp/Deriving_Values">
+        <a href="https://github.com/kochharp/Big-Data">
           <img alt="repo"
               src="https://custom-icon-badges.demolab.com/badge/Repo-RaagaFlow-24292E?logo=github&logoColor=white&style=flat"/>
         </a>
-        <a href="https://github.com/kochharp/Deriving_Values/stargazers">
+        <a href="https://github.com/kochharp/Big-Data/stargazers">
           <img alt="stars"
-              src="https://custom-icon-badges.demolab.com/github/stars/kochharp/Deriving_Values?style=social&label=Stars&logo=github&logoColor=white&cache=3600&t=1"/>
+              src="https://custom-icon-badges.demolab.com/github/stars/kochharp/Big-Data?style=social&label=Stars&logo=github&logoColor=white&cache=3600&t=1"/>
         </a>
       </p>
       <ul>
@@ -184,9 +184,9 @@ My academic and project work bridges <b>machine learning</b>, <b>deep learning</
     <img width="45%" alt="SER_VRET"
          src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=SER_VRET&show_owner=false"/>
   </a>
-  <a href="https://github.com/kochharp/Deriving_Values">
-    <img width="45%" alt="RaagaFlow (Deriving_Values)"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=Deriving_Values&show_owner=false"/>
+  <a href="https://github.com/kochharp/Big-Data">
+    <img width="45%" alt="Big_Data"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=Big-Data&show_owner=false"/>
   </a>
 </p>
 
