@@ -166,14 +166,14 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
 </p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kochharp/kochharp/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kochharp/kochharp/output/github-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kochharp/kochharp/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kochharp/kochharp/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kochharp/kochharp/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kochharp/kochharp/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
 
 
 ---
