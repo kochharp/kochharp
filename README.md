@@ -83,19 +83,21 @@ My academic and project work bridges <b>machine learning</b>, <b>deep learning</
     </td>
   </tr>
   <tr>
-  <td>
-    <h3>🎼 RaagaFlow – Big-Data Music Intelligence</h3>
-    <p>
-      End-to-end concept for raga & scale classification; big-data architecture for streaming music analytics; includes design assets and visual pipeline.
-    </p>
-    <p>
-      <a href="https://github.com/kochharp/Deriving_Values">
-        <img alt="repo" src="https://img.shields.io/badge/Repo-RaagaFlow-24292E?logo=github&logoColor=white"/>
-      </a>
-      <a href="https://github.com/kochharp/Deriving_Values/stargazers">
-        <img alt="stars" src="https://custom-icon-badges.demolab.com/github/stars/kochharp/Deriving_Values?style=social&logo=star&logoColor=white&cache=3600&t=1"/>
-      </a>
-    </p>
+    <td>
+      <h3>🎼 RaagaFlow – Big-Data Music Intelligence</h3>
+      <p>
+        End-to-end concept for raga & scale classification; big-data architecture for streaming music analytics; includes design assets and visual pipeline.
+      </p>
+      <p>
+        <a href="https://github.com/kochharp/Deriving_Values">
+          <img alt="repo"
+              src="https://custom-icon-badges.demolab.com/badge/Repo-RaagaFlow-24292E?logo=github&logoColor=white&style=flat"/>
+        </a>
+        <a href="https://github.com/kochharp/Deriving_Values/stargazers">
+          <img alt="stars"
+              src="https://custom-icon-badges.demolab.com/github/stars/kochharp/Deriving_Values?style=social&label=Stars&logo=github&logoColor=white&cache=3600&t=1"/>
+        </a>
+      </p>
       <ul>
         <li>Pipeline diagram & UX mockups</li>
         <li>Raga × Scale classification with ML</li>
