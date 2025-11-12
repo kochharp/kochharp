@@ -87,9 +87,6 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
       <a href="https://github.com/kochharp/Deriving_Values">
         <img alt="repo" src="https://img.shields.io/badge/Repo-RaagaFlow-24292E?logo=github&logoColor=white"/>
       </a>
-      <a href="https://github.com/kochharp/Deriving_Values/stargazers">
-        <img alt="stars" src="https://custom-icon-badges.demolab.com/github/stars/kochharp/Deriving_Values?style=social&logo=star&logoColor=white&cache=3600"/>
-      </a>
     </p>
     <ul>
       <li>Pipeline diagram & UX mockups</li>
