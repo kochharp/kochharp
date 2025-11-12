@@ -184,9 +184,9 @@ My academic and project work bridges <b>machine learning</b>, <b>deep learning</
     <img width="45%" alt="Speech Emotion Recognition in VRET"
          src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=SER_VRET&show_owner=false&theme=default&hide_border=false"/>
   </a>
-  <a href="https://github.com/kochharp/Big-Data">
-    <img width="45%" alt="RaagaFlow – Big Data Music Intelligence"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=Big-Data&show_owner=false&theme=default&hide_border=false&cache_seconds=1000"/>
+  <a href="https://github.com/kochharp/Deriving_Values">
+    <img width="45%" alt="NutriFit – Cloud Kitchen Analytics"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=Deriving_Values&show_owner=false&theme=default&hide_border=false&cache_seconds=1000"/>
   </a>
 </p>
 
