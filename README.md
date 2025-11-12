@@ -82,8 +82,8 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
         End-to-end concept for raga & scale classification; big-data architecture for streaming music analytics; includes design assets and visual pipeline.
       </p>
       <p>
-        <a href="https://github.com/kochharp/RaagaFlow"><img alt="repo" src="https://img.shields.io/badge/Repo-RaagaFlow-24292E?logo=github"/></a>
-        <a href="https://github.com/kochharp/RaagaFlow/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/kochharp/RaagaFlow?style=social"/></a>
+        <a href="https://github.com/kochharp/Big-Data"><img alt="repo" src="https://img.shields.io/badge/Repo-Big-Data-24292E?logo=github"/></a>
+        <a href="https://github.com/kochharp/Big-Data/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/kochharp/Big-Data?style=social"/></a>
       </p>
       <ul>
         <li>Pipeline diagram & UX mockups</li>
@@ -116,7 +116,7 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
         Data-driven insights for a conceptual healthy-meal startup. Includes survey analysis, KPI dashboards, and demographic targeting to optimize marketing strategy.
       </p>
       <p>
-        <a href="https://github.com/kochharp/NutriFit-Analytics"><img alt="repo" src="https://img.shields.io/badge/Repo-NutriFit_Analytics-24292E?logo=github"/></a>
+        <a href="https://github.com/kochharp/Deriving_Values"><img alt="repo" src="https://img.shields.io/badge/Repo-Deriving_Values-24292E?logo=github"/></a>
       </p>
       <ul>
         <li>Python • Power BI • Pandas</li>
@@ -132,7 +132,7 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
         Statistical analysis using ANOVA, PCA, and hierarchical modeling to explore predictors of body fat percentage and build predictive models.
       </p>
       <p>
-        <a href="https://github.com/kochharp/BodyFat-Analysis"><img alt="repo" src="https://img.shields.io/badge/Repo-BodyFat_Analysis-24292E?logo=github"/></a>
+        <a href="https://github.com/kochharp/StatisticalAnalysis_R"><img alt="repo" src="https://img.shields.io/badge/Repo-StatisticalAnalysis_R-24292E?logo=github"/></a>
       </p>
       <ul>
         <li>R • Python • ggplot2 • sklearn</li>
