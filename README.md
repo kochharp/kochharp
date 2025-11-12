@@ -1,14 +1,13 @@
 <!-- PROFILE HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=700&multiline=true&width=750&height=90&lines=Hi+there%2C+welcome+to+my+GitHub!+%F0%9F%91%8B;Data+Science+%7C+ML+%7C+Deep+Learning+%7C+VR+%7C+Public+Health" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=700&multiline=true&width=750&height=90&lines=Hi+there%2C+welcome+to+my+GitHub!+%F0%9F%91%8B;Data+Science+%7C+ML+%7C+Deep+Learning+%7C+VR+%7C+Analytics" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/<your-username>"><img src="https://komarev.com/ghpvc/?username=<your-username>&style=for-the-badge" alt="Profile views"/></a>
-  <a href="https://www.linkedin.com/in/<your-linkedin>/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=<your-scholar-id>"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-  <a href="mailto:<your-email>"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/kochharp"><img src="https://komarev.com/ghpvc/?username=kochharp&style=for-the-badge" alt="Profile views"/></a>
+  <a href="https://www.linkedin.com/in/prakharkochhar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:prakharkochharknp@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Resume-CV-6C63FF?style=for-the-badge"/></a>
 </p>
 
@@ -16,18 +15,17 @@
 
 <!-- ABOUT ME -->
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 <p>
-I’m a MSc Data Science student at <b>Nottingham Trent University</b>, building ML systems and polished, reproducible pipelines. My flagship work applies <b>Speech Emotion Recognition (SER)</b> to <b>Virtual Reality Exposure Therapy (VRET)</b> for public speaking anxiety. Beyond that, I explore <b>big‑data music analytics (RaagaFlow)</b>, <b>finance dashboards & trading analytics</b>, and produce structured <b>Community Medicine</b> notes.
+I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passionate about creating reproducible machine learning systems. My flagship project applies <b>Speech Emotion Recognition (SER)</b> to <b>Virtual Reality Exposure Therapy (VRET)</b> for public speaking anxiety. Alongside, I develop <b>finance analytics dashboards</b>, <b>big-data music systems (RaagaFlow)</b>, and practical data science workflows.
 </p>
 
 <ul>
-  <li>🔭 <b>Current focus:</b> Wav2Vec2‑based SER (multi‑dataset fine‑tuning: TESS, RAVDESS, CREMA‑D, NOR), real‑time VR hooks, robust augmentation, and model evaluation.</li>
-  <li>🧠 <b>Also into:</b> RaagaFlow (Indian Raga × Western Scale classification), stock‑market analytics (yfinance, backtesting), and clean data apps/UX.</li>
-  <li>🧰 <b>Workflow:</b> PyTorch • HuggingFace • scikit‑learn • Kaggle • Conda • Git • Docker • MLOps hygiene.</li>
-  <li>📚 <b>Community Medicine:</b> exam‑ready tables, flowcharts, and summaries (K Park, Harrison’s etc.).</li>
-  <li>💬 <b>Ask me about:</b> SER pipelines, audio feature engineering, dataset curation, VR integration, and dashboard storytelling.</li>
+  <li>🔭 <b>Current focus:</b> Wav2Vec2-based SER (TESS, RAVDESS, CREMA-D, NOR) with real-time VR integration, augmentation, and evaluation.</li>
+  <li>🧠 <b>Also into:</b> RaagaFlow (Indian Raga × Western Scale classification), stock-market analytics (yfinance, backtesting), and data visualization.</li>
+  <li>🧰 <b>Workflow:</b> PyTorch • HuggingFace • scikit-learn • Kaggle • Conda • Git • Docker • MLOps best practices.</li>
+  <li>💬 <b>Ask me about:</b> SER pipelines, audio feature extraction, dataset design, and interactive dashboards.</li>
 </ul>
 
 ---
@@ -37,7 +35,6 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, building
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <!-- Languages & DS -->
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
@@ -47,17 +44,11 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, building
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
-  <!-- MLOps & Infra -->
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <!-- Viz & BI -->
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" />
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
-  <!-- App/Frontend -->
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 </p>
 
 ---
@@ -69,82 +60,88 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, building
 <table>
   <tr>
     <td>
-      <h3>🎧 SER in VR Exposure Therapy (VRET)</h3>
+      <h3>🎧 Speech Emotion Recognition in VR Exposure Therapy (VRET)</h3>
       <p>
-        Wav2Vec2‑based speech emotion recognition for adaptive VR therapy. Multi‑dataset training (TESS, RAVDESS, CREMA‑D, etc.), augmentation, class‑balancing, and real‑time hooks.
+        Wav2Vec2-based SER for adaptive VR therapy. Trained on multi-dataset pipeline (TESS, RAVDESS, CREMA-D, NOR), featuring augmentation, class-balancing, and real-time emotion tracking.
       </p>
       <p>
-        <a href="https://github.com/<your-username>/SER_VRET"><img alt="repo" src="https://img.shields.io/badge/Repo-SER_VRET-24292E?logo=github"/></a>
-        <a href="https://github.com/<your-username>/SER_VRET/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/<your-username>/SER_VRET?style=social"/></a>
+        <a href="https://github.com/kochharp/SER_VRET"><img alt="repo" src="https://img.shields.io/badge/Repo-SER_VRET-24292E?logo=github"/></a>
+        <a href="https://github.com/kochharp/SER_VRET/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/kochharp/SER_VRET?style=social"/></a>
       </p>
       <ul>
-        <li>HuggingFace • PyTorch • Wav2Vec2‑Large</li>
-        <li>5‑class label set (angry, neutral, happy, sad, fear) with reproducible scripts</li>
-        <li>GPU‑ready notebooks (Kaggle/Colab/local RTX)</li>
+        <li>HuggingFace • PyTorch • Wav2Vec2-Large</li>
+        <li>5-class labels: angry, neutral, happy, sad, fear</li>
+        <li>GPU-ready (Kaggle/Colab/local RTX)</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <h3>🎼 RaagaFlow – Big‑Data Music Intelligence</h3>
+      <h3>🎼 RaagaFlow – Big-Data Music Intelligence</h3>
       <p>
-        Spotify‑scale concept: classify Indian ragas (Yaman, Bhairav, etc.) and Western scales; petabyte‑scale streaming architecture; brand assets and UX.
+        End-to-end concept for raga & scale classification; big-data architecture for streaming music analytics; includes design assets and visual pipeline.
       </p>
       <p>
-        <a href="https://github.com/<your-username>/RaagaFlow"><img alt="repo" src="https://img.shields.io/badge/Repo-RaagaFlow-24292E?logo=github"/></a>
-        <a href="https://github.com/<your-username>/RaagaFlow/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/<your-username>/RaagaFlow?style=social"/></a>
+        <a href="https://github.com/kochharp/RaagaFlow"><img alt="repo" src="https://img.shields.io/badge/Repo-RaagaFlow-24292E?logo=github"/></a>
+        <a href="https://github.com/kochharp/RaagaFlow/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/kochharp/RaagaFlow?style=social"/></a>
       </p>
       <ul>
-        <li>End‑to‑end pipeline diagram & prototypes</li>
-        <li>Raga × Scale classification experiments</li>
-        <li>Branding: logos, palettes, app mockups</li>
+        <li>Pipeline diagram & UX mockups</li>
+        <li>Raga × Scale classification with ML</li>
+        <li>Branded visuals and dashboards</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <h3>📈 NSE Top‑20 Stock Explorer</h3>
+      <h3>📈 NSE Top-20 Stock Explorer</h3>
       <p>
-        Python GUI with yfinance, interactive candlesticks, SMA/EMA overlays, and MA‑crossover backtesting. CSV exports and clean layout.
+        Python GUI app for stock analytics using yfinance, featuring interactive candlesticks, SMA/EMA overlays, and moving-average crossover backtesting.
       </p>
       <p>
-        <a href="https://github.com/<your-username>/NSE-Stock-Explorer"><img alt="repo" src="https://img.shields.io/badge/Repo-NSE_Stock_Explorer-24292E?logo=github"/></a>
-        <a href="https://github.com/<your-username>/NSE-Stock-Explorer/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/<your-username>/NSE-Stock-Explorer?style=social"/></a>
+        <a href="https://github.com/kochharp/NIFTY50_StockAnalysis"><img alt="repo" src="https://img.shields.io/badge/Repo-NSE_Stock_Explorer-24292E?logo=github"/></a>
+        <a href="https://github.com/kochharp/NIFTY50_StockAnalysis/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/kochharp/NIFTY50_StockAnalysis?style=social"/></a>
       </p>
       <ul>
-        <li>Tkinter GUI • Matplotlib • Backtesting</li>
+        <li>Tkinter GUI • Matplotlib • Backtesting.py</li>
         <li>SMA/EMA, strategy P&L, metrics dashboard</li>
-        <li>Handy scripts for daily analysis</li>
+        <li>CSV exports for analysis</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td>
-      <h3>🩺 Community Medicine Notes (K Park‑aligned)</h3>
+      <h3>🥗 NutriFit – Cloud Kitchen Analytics</h3>
       <p>
-        High‑yield exam‑ready answers, tables, and flowcharts from Community Medicine & Forensic Medicine topics, based on standard texts.
+        Data-driven insights for a conceptual healthy-meal startup. Includes survey analysis, KPI dashboards, and demographic targeting to optimize marketing strategy.
       </p>
       <p>
-        <a href="https://github.com/<your-username>/Community-Medicine-Notes"><img alt="repo" src="https://img.shields.io/badge/Repo-Community_Medicine_Notes-24292E?logo=github"/></a>
+        <a href="https://github.com/kochharp/NutriFit-Analytics"><img alt="repo" src="https://img.shields.io/badge/Repo-NutriFit_Analytics-24292E?logo=github"/></a>
       </p>
       <ul>
-        <li>Short/long answers • Diagrams • Mnemonics</li>
-        <li>K Park & Harrison’s alignment</li>
-        <li>Printable PDFs + Markdown sources</li>
+        <li>Python • Power BI • Pandas</li>
+        <li>Revenue, cost & risk analytics</li>
+        <li>Target group segmentation</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>⚙️ Body Fat Analysis in R & Python</h3>
+      <p>
+        Statistical analysis using ANOVA, PCA, and hierarchical modeling to explore predictors of body fat percentage and build predictive models.
+      </p>
+      <p>
+        <a href="https://github.com/kochharp/BodyFat-Analysis"><img alt="repo" src="https://img.shields.io/badge/Repo-BodyFat_Analysis-24292E?logo=github"/></a>
+      </p>
+      <ul>
+        <li>R • Python • ggplot2 • sklearn</li>
+        <li>Regression, PCA, and visualization</li>
+        <li>Data exploration workflow</li>
       </ul>
     </td>
   </tr>
 </table>
-
-<details>
-  <summary><b>More projects</b></summary>
-
-* Body Fat Analysis in R & Python (PCA, ANOVA, HLM) – <a href="https://github.com/<your-username>/BodyFat-Analysis">repo</a>
-* Spiking Neural Network (SNN) decoding with NEST – <a href="https://github.com/<your-username>/SNN-NEST-Decoding">repo</a>
-* Cloud Kitchen Analytics (NutriFit) – CEO/CFO dashboards & cohort analysis – <a href="https://github.com/<your-username>/NutriFit-Analytics">repo</a>
-* Big Data Coursework – 5Vs with RaagaFlow (Variety focus) – <a href="https://github.com/<your-username>/BigData-RaagaFlow">repo</a>
-
-</details>
 
 ---
 
@@ -153,21 +150,20 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, building
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=default&hide_title=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=<your-username>&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kochharp&show_icons=true&theme=default&hide_title=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=kochharp&theme=default" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=<your-username>&margin-w=10&margin-h=10" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochharp&layout=compact" />
+  <img height="165" src="https://github-profile-trophy.vercel.app/?username=kochharp&margin-w=10&margin-h=10" />
 </p>
 
 <p align="center">
-  <!-- Contribution Snake (dark/light auto) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<your-username>/<your-username>/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<your-username>/<your-username>/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/<your-username>/<your-username>/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kochharp/kochharp/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kochharp/kochharp/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/kochharp/kochharp/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -178,9 +174,9 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, building
 <h2 align="center">🏆 Highlights & Milestones</h2>
 
 <ul>
-  <li>Top‑3 selection for a national‑level write‑up (2025).</li>
-  <li>Research focus: SER in VRET with real‑time VR adaptivity.</li>
-  <li>Built multi‑project analytics portfolio (finance, healthcare, big data music).</li>
+  <li>Research: SER in VRET with real-time VR adaptivity.</li>
+  <li>Big-data architecture: RaagaFlow music intelligence system.</li>
+  <li>Finance & healthcare analytics portfolios.</li>
 </ul>
 
 ---
@@ -190,16 +186,13 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, building
 <h2 align="center">🤝 Let’s Connect</h2>
 
 <p align="center">
-  <a href="mailto:<your-email>"><img src="https://img.shields.io/badge/Email-Me-181717?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/<your-linkedin>/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/<your-username>"><img src="https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:prakharkochharknp@gmail.com"><img src="https://img.shields.io/badge/Email-Me-181717?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/prakharkochhar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/kochharp"><img src="https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-<!-- FOOTER NOTE -->
-
 <p align="center">
   <sub>⭐️ If you like my projects, consider giving them a star. It helps more than you think!</sub>
 </p>
-
