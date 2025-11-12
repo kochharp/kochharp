@@ -1,16 +1,15 @@
 name: Generate Contribution Snake
 
-# ✅ Make sure the workflow can write to branches
 permissions:
-  contents: write
+  contents: write            # allow pushing to output branch
 
 on:
   schedule:
-    - cron: "0 0 * * *"     # daily at 00:00 UTC
+    - cron: "0 0 * * *"      # daily at 00:00 UTC
   workflow_dispatch:         # manual run button
-  push:                      # run on any branch push
+  push:
     branches:
-      - "**"
+      - main
 
 jobs:
   generate:
@@ -19,16 +18,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # ✅ Correct action path includes `/svg`
-      - name: Generate SVGs
-        uses: Platane/snk/svg@v3
+      # ✅ Correct action (no /svg)
+      - name: Generate contribution snake SVGs
+        uses: Platane/snk@v3
         with:
           github_user_name: kochharp
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # ✅ Push to an "output" branch (created automatically if missing)
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
