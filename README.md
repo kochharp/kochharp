@@ -83,12 +83,15 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
       End-to-end concept for raga & scale classification; big-data architecture for streaming music analytics; includes design assets and visual pipeline.
     </p>
     <p>
-      <!-- Shows correct text while linking to Deriving_Values repo -->
+      <!-- Displays clean RaagaFlow label and reliable star count -->
       <a href="https://github.com/kochharp/Deriving_Values">
         <img alt="repo" src="https://img.shields.io/badge/Repo-RaagaFlow-24292E?logo=github&logoColor=white"/>
       </a>
+      <a href="https://github.com/kochharp/Deriving_Values/stargazers">
+        <img alt="stars" src="https://custom-icon-badges.demolab.com/github/stars/kochharp/Deriving_Values?style=social&logo=star&logoColor=white&cache=3600"/>
+      </a>
     </p>
-    <ul>
+
       <li>Pipeline diagram & UX mockups</li>
       <li>Raga × Scale classification with ML</li>
       <li>Branded visuals and dashboards</li>
@@ -102,8 +105,12 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
         Python GUI app for stock analytics using yfinance, featuring interactive candlesticks, SMA/EMA overlays, and moving-average crossover backtesting.
       </p>
       <p>
-        <a href="https://github.com/kochharp/NIFTY50_StockAnalysis"><img alt="repo" src="https://img.shields.io/badge/Repo-NIFTY50_StockAnalysis-24292E?logo=github&logoColor=white"/></a>
-        <a href="https://github.com/kochharp/NIFTY50_StockAnalysis/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/kochharp/NIFTY50_StockAnalysis?style=social"/></a>
+        <a href="https://github.com/kochharp/NIFTY50_StockAnalysis">
+          <img alt="repo" src="https://img.shields.io/badge/Repo-NIFTY50_StockAnalysis-24292E?logo=github&logoColor=white"/>
+        </a>
+        <a href="https://github.com/kochharp/NIFTY50_StockAnalysis/stargazers">
+          <img alt="stars" src="https://custom-icon-badges.demolab.com/github/stars/kochharp/NIFTY50_StockAnalysis?style=social&logo=star&logoColor=white&cache=3600"/>
+        </a>
       </p>
       <ul>
         <li>Tkinter GUI • Matplotlib • Backtesting.py</li>
