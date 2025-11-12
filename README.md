@@ -83,14 +83,9 @@ I’m a MSc Data Science student at <b>Nottingham Trent University</b>, passiona
       End-to-end concept for raga & scale classification; big-data architecture for streaming music analytics; includes design assets and visual pipeline.
     </p>
     <p>
-      <!-- Shows clean RaagaFlow label and reliable star count -->
-      <a href="https://github.com/kochharp/Deriving_Values">
-        <img alt="repo" src="https://img.shields.io/badge/Repo-RaagaFlow-24292E?logo=github&logoColor=white"/>
-      </a>
-      <a href="https://github.com/kochharp/Deriving_Values/stargazers">
-        <img alt="stars" src="https://custom-icon-badges.demolab.com/github/stars/kochharp/Deriving_Values?style=social&logo=star&logoColor=white&cache=3600"/>
-      </a>
-    </p>
+        <a href="https://github.com/kochharp/Deriving_Values"><img alt="repo" src="https://img.shields.io/badge/Repo-Deriving_Values-24292E?logo=github&logoColor=white"/></a>
+        <a href="https://github.com/kochharp/Deriving_Values/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/kochharp/Deriving_Values?style=social"/></a>
+      </p>
       <li>Pipeline diagram & UX mockups</li>
       <li>Raga × Scale classification with ML</li>
       <li>Branded visuals and dashboards</li>
