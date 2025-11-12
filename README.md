@@ -1,8 +1,9 @@
 <!-- PROFILE HEADER -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=2500&pause=700&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Building+Intelligent+Systems+with+Data+%26+Code+🤖;Machine+Learning+%7C+Deep+Learning+%7C+VR+%7C+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=2500&pause=700&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Building+Intelligent+Systems+with+Data+%26+Code+👋;Machine+Learning+%7C+Deep+Learning+%7C+VR+%7C+Analytics" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/kochharp"><img src="https://komarev.com/ghpvc/?username=kochharp&style=for-the-badge" alt="Profile views"/></a>
@@ -165,7 +166,40 @@ My academic and project work bridges <b>machine learning</b>, <b>deep learning</
 
 ---
 
+<!-- GITHUB STATS (Minimal & Relevant) -->
+<h2 align="center">📊 GitHub Highlights</h2>
 
+<p align="center">
+  <!-- Top languages (compact) -->
+  <img height="165" alt="Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochharp&layout=compact&langs_count=8&exclude_repo=kochharp.github.io"/>
+  <!-- Streak (consistency, not vanity totals) -->
+  <img height="165" alt="Streak"
+       src="https://github-readme-streak-stats.herokuapp.com?user=kochharp&theme=default"/>
+</p>
+
+<!-- Pin key repos for quick context (no ‘points’ badges) -->
+<p align="center">
+  <a href="https://github.com/kochharp/SER_VRET">
+    <img width="45%" alt="SER_VRET"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=SER_VRET&show_owner=false"/>
+  </a>
+  <a href="https://github.com/kochharp/Deriving_Values">
+    <img width="45%" alt="RaagaFlow (Deriving_Values)"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=Deriving_Values&show_owner=false"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kochharp/NIFTY50_StockAnalysis">
+    <img width="45%" alt="NIFTY50_StockAnalysis"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=NIFTY50_StockAnalysis&show_owner=false"/>
+  </a>
+  <a href="https://github.com/kochharp/StatisticalAnalysis_R">
+    <img width="45%" alt="StatisticalAnalysis_R"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=StatisticalAnalysis_R&show_owner=false"/>
+  </a>
+</p>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
