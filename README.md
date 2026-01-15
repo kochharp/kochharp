@@ -166,43 +166,38 @@ My academic and project work bridges <b>machine learning</b>, <b>deep learning</
 
 ---
 
+<!-- GITHUB STATS (Minimal & Relevant) -->
 <h2 align="center">📊 GitHub Highlights</h2>
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochharp&layout=compact&langs_count=8&exclude_repo=kochharp.github.io&theme=tokyonight&hide_border=true"
-       alt="Top Languages" />
-
-  <img height="165"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=kochharp&theme=tokyonight&hide_border=true"
-       alt="GitHub Streak" />
+  <!-- Top languages -->
+  <img height="165" alt="Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochharp&layout=compact&langs_count=8&exclude_repo=kochharp.github.io"/>
+  <!-- Streak (consistency) -->
+  <img height="165" alt="Streak"
+       src="https://github-readme-streak-stats.herokuapp.com?user=kochharp&theme=default"/>
 </p>
 
+<!-- Key repositories -->
 <p align="center">
   <a href="https://github.com/kochharp/SER_VRET">
-    <img width="45%"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=SER_VRET&theme=tokyonight&hide_border=true"
-         alt="Speech Emotion Recognition in VRET" />
+    <img width="45%" alt="Speech Emotion Recognition in VRET"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=SER_VRET&show_owner=false&theme=default&hide_border=false"/>
   </a>
-
   <a href="https://github.com/kochharp/Deriving_Values">
-    <img width="45%"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=Deriving_Values&theme=tokyonight&hide_border=true"
-         alt="NutriFit – Cloud Kitchen Analytics" />
+    <img width="45%" alt="NutriFit – Cloud Kitchen Analytics"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=Deriving_Values&show_owner=false&theme=default&hide_border=false&cache_seconds=1000"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/kochharp/NIFTY50_StockAnalysis">
-    <img width="45%"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=NIFTY50_StockAnalysis&theme=tokyonight&hide_border=true"
-         alt="NIFTY50 Stock Analysis" />
+    <img width="45%" alt="NIFTY50 Stock Analysis"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=NIFTY50_StockAnalysis&show_owner=false&theme=default&hide_border=false"/>
   </a>
-
   <a href="https://github.com/kochharp/StatisticalAnalysis_R">
-    <img width="45%"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=StatisticalAnalysis_R&theme=tokyonight&hide_border=true"
-         alt="Statistical Analysis in R" />
+    <img width="45%" alt="Statistical Analysis in R"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=StatisticalAnalysis_R&show_owner=false&theme=default&hide_border=false"/>
   </a>
 </p>
 
