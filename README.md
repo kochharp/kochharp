@@ -172,8 +172,9 @@ My academic and project work bridges <b>machine learning</b>, <b>deep learning</
 <p align="center">
   <!-- Top languages -->
   <img height="165" alt="Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kochharp&layout=compact&langs_count=8&exclude_repo=kochharp.github.io"/>
-  <!-- Streak (consistency) -->
+       src="https://github-readme-stats-eight-opal-71.vercel.app/api/top-langs/?username=kochharp&layout=compact&langs_count=8&exclude_repo=kochharp.github.io&cache_seconds=86400"/>
+
+  <!-- Streak -->
   <img height="165" alt="Streak"
        src="https://github-readme-streak-stats.herokuapp.com?user=kochharp&theme=default"/>
 </p>
@@ -182,25 +183,26 @@ My academic and project work bridges <b>machine learning</b>, <b>deep learning</
 <p align="center">
   <a href="https://github.com/kochharp/SER_VRET">
     <img width="45%" alt="Speech Emotion Recognition in VRET"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=SER_VRET&show_owner=false&theme=default&hide_border=false"/>
+         src="https://github-readme-stats-eight-opal-71.vercel.app/api/pin/?username=kochharp&repo=SER_VRET&show_owner=false&theme=default&hide_border=false&cache_seconds=86400"/>
   </a>
+
   <a href="https://github.com/kochharp/Deriving_Values">
     <img width="45%" alt="NutriFit – Cloud Kitchen Analytics"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=Deriving_Values&show_owner=false&theme=default&hide_border=false&cache_seconds=1000"/>
+         src="https://github-readme-stats-eight-opal-71.vercel.app/api/pin/?username=kochharp&repo=Deriving_Values&show_owner=false&theme=default&hide_border=false&cache_seconds=86400"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/kochharp/NIFTY50_StockAnalysis">
     <img width="45%" alt="NIFTY50 Stock Analysis"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=NIFTY50_StockAnalysis&show_owner=false&theme=default&hide_border=false"/>
+         src="https://github-readme-stats-eight-opal-71.vercel.app/api/pin/?username=kochharp&repo=NIFTY50_StockAnalysis&show_owner=false&theme=default&hide_border=false&cache_seconds=86400"/>
   </a>
+
   <a href="https://github.com/kochharp/StatisticalAnalysis_R">
     <img width="45%" alt="Statistical Analysis in R"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=kochharp&repo=StatisticalAnalysis_R&show_owner=false&theme=default&hide_border=false"/>
+         src="https://github-readme-stats-eight-opal-71.vercel.app/api/pin/?username=kochharp&repo=StatisticalAnalysis_R&show_owner=false&theme=default&hide_border=false&cache_seconds=86400"/>
   </a>
 </p>
-
 
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
