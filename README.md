@@ -169,40 +169,68 @@ My academic and project work bridges <b>machine learning</b>, <b>deep learning</
 <!-- GITHUB STATS (Minimal & Relevant) -->
 <h2 align="center">📊 GitHub Highlights</h2>
 
-<p align="center">
-  <!-- Top languages -->
-  <img height="165" alt="Top Languages"
-       src="https://github-readme-stats-eight-opal-71.vercel.app/api/top-langs/?username=kochharp&layout=compact&langs_count=8&exclude_repo=kochharp.github.io&cache_seconds=86400"/>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-stats-eight-opal-71.vercel.app/api/top-langs/?username=kochharp&layout=compact&langs_count=8&exclude_repo=kochharp.github.io&cache_seconds=86400"
+        alt="Top Languages"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com?user=kochharp&theme=default"
+        alt="GitHub Streak"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-  <!-- Streak -->
-  <img height="165" alt="Streak"
-       src="https://github-readme-streak-stats.herokuapp.com?user=kochharp&theme=default"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/kochharp/SER_VRET">
+        <img 
+          src="https://github-readme-stats-eight-opal-71.vercel.app/api/pin/?username=kochharp&repo=SER_VRET&show_owner=false&theme=default&hide_border=false&cache_seconds=86400"
+          alt="Speech Emotion Recognition in VRET"
+          width="100%"
+        />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/kochharp/Deriving_Values">
+        <img 
+          src="https://github-readme-stats-eight-opal-71.vercel.app/api/pin/?username=kochharp&repo=Deriving_Values&show_owner=false&theme=default&hide_border=false&cache_seconds=86400"
+          alt="NutriFit – Cloud Kitchen Analytics"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
 
-<!-- Key repositories -->
-<p align="center">
-  <a href="https://github.com/kochharp/SER_VRET">
-    <img width="45%" alt="Speech Emotion Recognition in VRET"
-         src="https://github-readme-stats-eight-opal-71.vercel.app/api/pin/?username=kochharp&repo=SER_VRET&show_owner=false&theme=default&hide_border=false&cache_seconds=86400"/>
-  </a>
-
-  <a href="https://github.com/kochharp/Deriving_Values">
-    <img width="45%" alt="NutriFit – Cloud Kitchen Analytics"
-         src="https://github-readme-stats-eight-opal-71.vercel.app/api/pin/?username=kochharp&repo=Deriving_Values&show_owner=false&theme=default&hide_border=false&cache_seconds=86400"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kochharp/NIFTY50_StockAnalysis">
-    <img width="45%" alt="NIFTY50 Stock Analysis"
-         src="https://github-readme-stats-eight-opal-71.vercel.app/api/pin/?username=kochharp&repo=NIFTY50_StockAnalysis&show_owner=false&theme=default&hide_border=false&cache_seconds=86400"/>
-  </a>
-
-  <a href="https://github.com/kochharp/StatisticalAnalysis_R">
-    <img width="45%" alt="Statistical Analysis in R"
-         src="https://github-readme-stats-eight-opal-71.vercel.app/api/pin/?username=kochharp&repo=StatisticalAnalysis_R&show_owner=false&theme=default&hide_border=false&cache_seconds=86400"/>
-  </a>
-</p>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/kochharp/NIFTY50_StockAnalysis">
+        <img 
+          src="https://github-readme-stats-eight-opal-71.vercel.app/api/pin/?username=kochharp&repo=NIFTY50_StockAnalysis&show_owner=false&theme=default&hide_border=false&cache_seconds=86400"
+          alt="NIFTY50 Stock Analysis"
+          width="100%"
+        />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/kochharp/StatisticalAnalysis_R">
+        <img 
+          src="https://github-readme-stats-eight-opal-71.vercel.app/api/pin/?username=kochharp&repo=StatisticalAnalysis_R&show_owner=false&theme=default&hide_border=false&cache_seconds=86400"
+          alt="Statistical Analysis in R"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
