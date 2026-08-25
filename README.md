@@ -180,7 +180,7 @@ My academic and project work bridges <b>machine learning</b>, <b>deep learning</
     </td>
     <td align="center" width="50%">
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com?user=kochharp&theme=default"
+        src="https://streak-stats.demolab.com?user=kochharp&theme=default"
         alt="GitHub Streak"
         width="100%"
       />
